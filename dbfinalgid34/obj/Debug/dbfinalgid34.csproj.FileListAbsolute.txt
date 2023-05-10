@@ -1,0 +1,96 @@
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.exe.config
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.exe
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.pdb
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Properties.Resources.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.GenerateResource.cache
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.CoreCompileInputs.cache
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.exe
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.pdb
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Form3.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.exe.config
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.exe
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.pdb
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.AssemblyReference.cache
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Form3.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Properties.Resources.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.GenerateResource.cache
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.CoreCompileInputs.cache
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.exe
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.pdb
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.StudentDashboard.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Data.SqlClient.dll
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.AccessControl.dll
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Permissions.dll
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Principal.Windows.dll
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Data.SqlClient.xml
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.AccessControl.xml
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Permissions.xml
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Principal.Windows.xml
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.CopyComplete
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Permissions.dll
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Permissions.xml
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Category.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.managestudent.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.studentattendance.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.StudentDashboard.resources
+C:\Users\PF\Documents\GitHub\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.CopyComplete
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.studentattendance.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.collegeresult.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.AssemblyReference.cache
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.fee.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.ManageTeacher.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.SALARY.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Staff.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.TimeTable.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.AssignCourse.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.viewboardresult.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.exe.config
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.exe
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\dbfinalgid34.pdb
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Permissions.dll
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Permissions.xml
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.AssignCourse.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.collegeresult.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.expelledstudents.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.fee.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.feestatus.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.managestudent.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Form3.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.ManageTeacher.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Properties.Resources.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.SALARY.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Salary1cs.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Staff.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.studentattendance.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.StudentDashboard.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.TimeTable.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.viewboardresult.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.GenerateResource.cache
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.CoreCompileInputs.cache
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.CopyComplete
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.exe
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.pdb
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.TeacherAttendence.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.expelledstudents.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.feestatus.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.Salary1cs.resources
+D:\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.TeacherAttendence.resources
+C:\Users\PF\Documents\GitHub\New folder\dbfinalgid-34\dbfinalgid34\dbfinalgid34\obj\Debug\dbfinalgid34.csproj.AssemblyReference.cache
